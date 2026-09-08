@@ -25,4 +25,4 @@ In our experiment setting: cuda 11.8
 python main.py
 ```
 
-Drug data should be unzipped and placed in the code directory (e.g., under `drug_data/`).
+Drug data should be unzipped and placed in the code directory
